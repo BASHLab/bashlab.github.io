@@ -9,6 +9,14 @@
   },
   {
     "date": "August 2026",
+    "title": "CODetect got accepted into [red]MIT URTC '26[/red] as a paper",
+    "content": "Mass Academy student Abhiraam Venigalla developed CODetect, a smartwatch combining environmental and physiological monitoring to detect CO poisoning and alert emergency services.",
+    "url": "",
+    "image": "./img/news/co_detect.png",
+    "category": "publication"
+  },
+  {
+    "date": "August 2026",
     "title": "Prof. Bashima Islam receives [red]NSF CAREER Award[/red]",
     "content": "The lab received an NSF Faculty Early Career Development (CAREER) Award supporting five years of research (2026-2031), with Bashima Islam as Lead PI.",
     "url": "https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2541781",
