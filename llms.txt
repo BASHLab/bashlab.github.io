@@ -6,6 +6,7 @@ Site: https://bashlab.github.io
 
 ## News
 - September 2026 — BASH Lab moves to UMass Amherst: The BASH Lab has relocated from Worcester Polytechnic Institute (WPI) to the University of Massachusetts Amherst, where we continue our research on AI and sensing for health. (https://bashlab.github.io)
+- August 2026 — CODetect got accepted into MIT URTC '26 as a paper: Mass Academy student Abhiraam Venigalla developed CODetect, a smartwatch combining environmental and physiological monitoring to detect CO poisoning and alert emergency services.
 - August 2026 — Prof. Bashima Islam receives NSF CAREER Award: The lab received an NSF Faculty Early Career Development (CAREER) Award supporting five years of research (2026-2031), with Bashima Islam as Lead PI. (https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2541781)
 - July 2026 — Subrata joins Amazon AWS as Summer Research Intern: 
 - March 2026 — Subrata joins Mitsubishi Electric Research Laboratories (MERL) as Research Intern: 
