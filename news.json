@@ -1,6 +1,22 @@
 [
   {
     "date": "September 2026",
+    "title": "Our sleep screening entry goes to [red]CinC 2026[/red] as a poster",
+    "content": "Interpretable overnight polysomnography features, aligned to a hospital the model never trained on and scored without any labels from it, predict future diagnoses of cognitive impairment. Team bashlab ranked 29th of 514 on the hidden validation set of the George B. Moody PhysioNet Challenge 2026, with an age-conditioned AUROC of 0.751. [red](Led by Shouborno)[/red]",
+    "url": "https://github.com/shouborno/physionet-challenge-2026",
+    "image": "",
+    "category": "publication"
+  },
+  {
+    "date": "September 2026",
+    "title": "JOLT got accepted in [red]ICTAI 2026[/red]",
+    "content": "JOLT trains every branch of an early-exit network under a single objective and then routes on the confidence the network already computes, so a compute budget still holds when the input distribution drifts. Across seven datasets spanning sensor, image, audio and language tasks, it overspends its budget by at most 6.8%, where exit rules calibrated on clean data overspend by up to 62%. [red](Led by Shouborno)[/red]",
+    "url": "",
+    "image": "",
+    "category": "publication"
+  },
+  {
+    "date": "September 2026",
     "title": "BASH Lab moves to [red]UMass Amherst[/red]",
     "content": "The BASH Lab has relocated from Worcester Polytechnic Institute (WPI) to the University of Massachusetts Amherst, where we continue our research on AI and sensing for health.",
     "url": "https://bashlab.github.io",
@@ -107,7 +123,7 @@
   {
     "date": "July 2025",
     "title": "LLaSA got accepted in in [red]GENAI4HS Workshop, UbiComp'25[/red]",
-    "content": "LLaSA combines IMU data with language models to generate interpretable, context-rich answers about human activity using large-scale sensor-caption and QA datasets.. [red](Led by Shoubornno)[/red]",
+    "content": "LLaSA combines IMU data with language models to generate interpretable, context-rich answers about human activity using large-scale sensor-caption and QA datasets.. [red](Led by Shouborno)[/red]",
     "url": "https://bashlab.github.io/llasa_project/",
     "image": "./img/news/llasa.png",
     "category": "publication"
@@ -138,7 +154,7 @@
   },
   {
     "date": "May 2025",
-    "title": "Shourno went to [red]Bosch Research Labs[/red] as Summer Research Intern",
+    "title": "Shouborno went to [red]Bosch Research Labs[/red] as Summer Research Intern",
     "content": "",
     "url": "https://www.bosch.us/our-company/innovation/",
     "image": "./img/news/bosch.png",

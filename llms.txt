@@ -5,6 +5,8 @@
 Site: https://bashlab.github.io
 
 ## News
+- September 2026 — Our sleep screening entry goes to CinC 2026 as a poster: Interpretable overnight polysomnography features, aligned to a hospital the model never trained on and scored without any labels from it, predict future diagnoses of cognitive impairment. Team bashlab ranked 29th of 514 on the hidden validation set of the George B. Moody PhysioNet Challenge 2026, with an age-conditioned AUROC of 0.751. (Led by Shouborno) (https://github.com/shouborno/physionet-challenge-2026)
+- September 2026 — JOLT got accepted in ICTAI 2026: JOLT trains every branch of an early-exit network under a single objective and then routes on the confidence the network already computes, so a compute budget still holds when the input distribution drifts. Across seven datasets spanning sensor, image, audio and language tasks, it overspends its budget by at most 6.8%, where exit rules calibrated on clean data overspend by up to 62%. (Led by Shouborno)
 - September 2026 — BASH Lab moves to UMass Amherst: The BASH Lab has relocated from Worcester Polytechnic Institute (WPI) to the University of Massachusetts Amherst, where we continue our research on AI and sensing for health. (https://bashlab.github.io)
 - August 2026 — CODetect got accepted into MIT URTC '26 as a paper: Mass Academy student Abhiraam Venigalla developed CODetect, a smartwatch combining environmental and physiological monitoring to detect CO poisoning and alert emergency services.
 - August 2026 — Prof. Bashima Islam receives NSF CAREER Award: The lab received an NSF Faculty Early Career Development (CAREER) Award supporting five years of research (2026-2031), with Bashima Islam as Lead PI. (https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2541781)
@@ -18,11 +20,11 @@ Site: https://bashlab.github.io
 - September 2025 — Mindfulness Meditation and Respiration got accepted in IMWUT/UbiComp'25: This work introduces smartphone-based respiration tracking and mindfulness skill estimation to enhance engagement and usability in digital meditation apps. (Led by Nur) (https://bashlab.github.io/meditite_project/)
 - September 2025 — LYNX got accepted in MIT URTC'25 as a Poster: Three high school students developed an open-source multimodal earable for data collection. (Led by Hikmet, Musa, Pranav)
 - August 2025 — RAVEN got accepted in EMNLP'25: RAVEN improves multimodal question answering by dynamically gating cross-modal signals—using a single architecture to suppress distractors and resolve modality mismatches. (Led by Subrata) (https://bashlab.github.io/raven_project/)
-- July 2025 — LLaSA got accepted in in GENAI4HS Workshop, UbiComp'25: LLaSA combines IMU data with language models to generate interpretable, context-rich answers about human activity using large-scale sensor-caption and QA datasets.. (Led by Shoubornno) (https://bashlab.github.io/llasa_project/)
+- July 2025 — LLaSA got accepted in in GENAI4HS Workshop, UbiComp'25: LLaSA combines IMU data with language models to generate interpretable, context-rich answers about human activity using large-scale sensor-caption and QA datasets.. (Led by Shouborno) (https://bashlab.github.io/llasa_project/)
 - June 2025 — LOCUS got accepted in EWSN'25: LOCUS enables robust sound source localization in batteryless systems by intelligently recovering missing multichannel data using deep learning. (Led by Subrata) (https://bashlab.github.io/locus_project/)
 - May 2025 — QuaDS got accepted in Interspeech'25: QUADS unifies quantization and distillation to create ultra-efficient spoken language understanding models. (Led by Subrata) (https://bashlab.github.io/quad_project/)
 - May 2025 — FATE got accepted in MWSCAS'25: Fate is a novel Fourier-Accelerated CMOS-based Tensor Engine that optimizes matrix multiplication using the Fourier Dot Product. (Led by Jack) (https://bashlab.github.io/fate_project/)
-- May 2025 — Shourno went to Bosch Research Labs as Summer Research Intern:  (https://www.bosch.us/our-company/innovation/)
+- May 2025 — Shouborno went to Bosch Research Labs as Summer Research Intern:  (https://www.bosch.us/our-company/innovation/)
 - November 2024 — Gift Money from Wadsworth Acoustic Laboratory:  (https://bashlab.github.io/research)
 - July 2024 — NIH NIMH SBIR Phase 1 Awarded:  (https://reporter.nih.gov/search/JbW0N-Uuzkuu6w2WE7OsxA/project-details/10919943)
 - July 2024 — NIH NIDDK RO1 Awarded:  (https://reporter.nih.gov/search/m2XMndk72Uyo1nbCSi7IMQ/project-details/10981817)
