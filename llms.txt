@@ -77,7 +77,7 @@ More: https://bashima.notion.site/mind-meets-machine?pvs=4
 - Bashima Islam — Assistant Professor, ECE, University of Massachusetts Amherst (https://bashimaislam.com)
 - Subrata Kumar Biswas — PhD Student, ECE, Worcester Polytechnic Institute (https://users.wpi.edu/~sbiswas/)
 - Mohammad Nur Hossain Khan — PhD Student, ECE, University of Massachusetts Amherst (https://nurhossain2301.github.io/)
-- Sheikh Asif Imran Shouborno — PhD Student, ECE, University of Massachusetts Amherst (https://shouborno.wixsite.com/research)
+- S. A. I. Shouborno — PhD Student, ECE, University of Massachusetts Amherst (https://shouborno.wixsite.com/research)
 - Bibhus Luitel — PhD Student, ECE, University of Massachusetts Amherst (https://users.wpi.edu/~bluitel/)
 - Sabbir Hossain Ujjal — PhD Student, ECE, University of Massachusetts Amherst (https://sabbirhossainujjal.github.io/)
 - Anna Balin — Master's Student, ECE, Worcester Polytechnic Institute (https://users.wpi.edu/~abalin)
@@ -114,8 +114,8 @@ Total funding: $1762K
 - Gestify (2024) — https://www.youtube.com/watch?v=n5AmI1qYyJ4
 
 ## Publications
-- JOLT: Jointly Optimized Layerwise Termination for Budgeted Early-Exit Inference. Sheikh Asif Imran Shouborno, Mohammad Nur Hossain Khan, Bashima Islam. 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI) 2026 https://github.com/BASHLab/jolt-early-exit
-- Cross-Site Generalization of Interpretable Sleep Features for Predicting Future Cognitive Impairment. Sheikh Asif Imran Shouborno, Bashima Islam. Computing in Cardiology (CinC) 2026 https://github.com/shouborno/physionet-challenge-2026
+- JOLT: Jointly Optimized Layerwise Termination for Budgeted Early-Exit Inference. S. A. I. Shouborno, Mohammad Nur Hossain Khan, Bashima Islam. 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI) 2026 https://github.com/BASHLab/jolt-early-exit
+- Cross-Site Generalization of Interpretable Sleep Features for Predicting Future Cognitive Impairment. S. A. I. Shouborno, Bashima Islam. Computing in Cardiology (CinC) 2026 https://github.com/shouborno/physionet-challenge-2026
 - OWL: Geometry-Aware Spatial Reasoning for Audio Large Language Models. Subrata Biswas, Mohammad Nur Hossain Khan, Bashima Islam. International Conference on Learning Representations (ICLR) 2026 https://arxiv.org/pdf/2509.26140?
 - Hair Noise Analysis and Mitigation for Smart Glasses Audio Captures. Subrata Biswas, Daniel Wong, Bashima Islam, Sanjeel Parekh, Vladimir Tourbabin. ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026 https://ieeexplore.ieee.org/document/11464268
 - RAVEN: Query-Guided Representation Alignment for Question Answering over Audio, Video, Embedded Sensors, and Natural Language. Subrata Biswas, Mohammad Nur Hossain Khan, Bashima Islam. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 https://aclanthology.org/2025.emnlp-main.96/
