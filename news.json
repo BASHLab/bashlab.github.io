@@ -4,15 +4,15 @@
     "title": "Our sleep screening entry goes to [red]CinC 2026[/red] as a poster",
     "content": "Interpretable overnight polysomnography features, aligned to a hospital the model never trained on and scored without any labels from it, predict future diagnoses of cognitive impairment. Team bashlab ranked 29th of 514 on the hidden validation set of the George B. Moody PhysioNet Challenge 2026, with an age-conditioned AUROC of 0.751. [red](Led by Shouborno)[/red]",
     "url": "https://github.com/shouborno/physionet-challenge-2026",
-    "image": "",
+    "image": "./img/news/cinc2026.png",
     "category": "publication"
   },
   {
     "date": "September 2026",
     "title": "JOLT got accepted in [red]ICTAI 2026[/red]",
     "content": "JOLT trains every branch of an early-exit network under a single objective and then routes on the confidence the network already computes, so a compute budget still holds when the input distribution drifts. Across seven datasets spanning sensor, image, audio and language tasks, it overspends its budget by at most 6.8%, where exit rules calibrated on clean data overspend by up to 62%. [red](Led by Shouborno)[/red]",
-    "url": "",
-    "image": "",
+    "url": "https://github.com/BASHLab/jolt-early-exit",
+    "image": "./img/news/jolt.png",
     "category": "publication"
   },
   {

@@ -1,0 +1,40 @@
+% Shared look for the news card banners.
+%
+% Two constraints drive every number below.
+%
+% Size: the card slot is about 262x140 CSS px at desktop width, so the 1600pt
+% canvas is displayed at roughly a sixth of its size. Nothing here is set
+% smaller than about 66pt, which lands near 11 CSS px.
+%
+% Crop: the slot uses object-fit: cover and its aspect ratio changes with the
+% Bootstrap breakpoint, 1.88 at col-md-3 and 2.46 at col-sm-6 against this
+% canvas at 2.0. Cover crops whichever axis is long, so up to 3% goes off each
+% side and up to 10% off the top and bottom. The background is therefore a
+% flat fill with no edge detail to lose, and the text is one vertically
+% centred block, which keeps it clear of both trims.
+\ProvidesPackage{_banner}
+\usepackage[paperwidth=1600pt, paperheight=800pt, margin=0pt]{geometry}
+\usepackage{xcolor}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+\definecolor{accent}{HTML}{2166AC}
+% Light enough to clear 4.5:1 against the accent fill at 11 CSS px.
+\definecolor{wash}{HTML}{E3ECF6}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\fboxsep}{0pt}
+\pagecolor{accent}
+\color{white}
+
+% #1 the short name, #2 the venue line, #3 the figures line.
+\newcommand{\banner}[3]{%
+  \noindent\parbox[c][\paperheight][c]{\paperwidth}{\centering
+    {\fontsize{150}{162}\selectfont\bfseries #1\par}
+    \vspace{30pt}
+    {\fontsize{66}{76}\selectfont\color{wash} #2\par}
+    \vspace{56pt}
+    {\fontsize{84}{96}\selectfont\bfseries #3\par}}%
+}
