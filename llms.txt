@@ -115,6 +115,8 @@ Total funding: $1762K
 - Gestify (2024) — https://www.youtube.com/watch?v=n5AmI1qYyJ4
 
 ## Publications
+- BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment. Mohammad Nur Hossain Khan, MS Krafczyk, Beverly G Bolster, Nancy McElwain, Mark A Hasegawa-Johnson, Bashima Islam. arXiv preprint arXiv:2609.31546 2026
+- Encoder-aware Verifier Fusion with Boundary Refinement for Audio Moment Retrieval. Mohammad Nur Hossain Khan, Subrata Biswas, Bashima Islam.  2026
 - JOLT: Jointly Optimized Layerwise Termination for Budgeted Early-Exit Inference. S. A. I. Shouborno, Mohammad Nur Hossain Khan, Bashima Islam. 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI) 2026 https://github.com/BASHLab/jolt-early-exit
 - Cross-Site Generalization of Interpretable Sleep Features for Predicting Future Cognitive Impairment. S. A. I. Shouborno, Bashima Islam. Computing in Cardiology (CinC) 2026 https://github.com/shouborno/physionet-challenge-2026
 - OWL: Geometry-Aware Spatial Reasoning for Audio Large Language Models. Subrata Biswas, Mohammad Nur Hossain Khan, Bashima Islam. International Conference on Learning Representations (ICLR) 2026 https://arxiv.org/pdf/2509.26140?
