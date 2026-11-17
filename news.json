@@ -1,5 +1,21 @@
 [
   {
+    "date": "November 2026",
+    "title": "BASH Lab receives a [red]Bosch Research[/red] grant",
+    "content": "The lab received a research grant from Bosch Research, with Bashima Islam as Lead PI.",
+    "url": "",
+    "image": "./img/news/bosch.png",
+    "category": "funding"
+  },
+  {
+    "date": "October 2026",
+    "title": "Nur joins the Digital Health Lab at [red]Samsung Research America[/red] as Research Intern",
+    "content": "",
+    "url": "",
+    "image": "./img/news/samsung.png",
+    "category": "internship"
+  },
+  {
   "date": "September 2026",
   "title": "StoMPP got accepted in [red]NeurIPS 2026[/red]",
   "content": "StoMPP binarizes a network one layer at a time, input to output, so every layer being binarized keeps a gradient path to the loss. It trains deep binary networks without a straight-through estimator, and combined with STE it improves ResNet-50 on ImageNet by +17.7 points over vanilla STE, with gains growing with depth. [red](Led by Evan)[/red]",

@@ -606,7 +606,7 @@ def main():
     # ---- sponsors.html ----
     h = read_file("sponsors.html")
     h = inject_into(h, "grants-container", "grants", render_grants(funding))
-    h = inject_head(h, "head", head_block("Research funding and sponsors supporting BASH Lab (UMass Amherst): NSF, NIH and gifts."))
+    h = inject_head(h, "head", head_block("Research funding and sponsors supporting BASH Lab (UMass Amherst): NSF, NIH, industry and gifts."))
     write_file("sponsors.html", h)
 
     # ---- publications.html ----

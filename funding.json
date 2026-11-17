@@ -1,11 +1,11 @@
 {
   "chartData": {
-    "labels": ["NSF", "NIH", "GIFT"],
+    "labels": ["NSF", "NIH", "GIFT", "Industry"],
     "datasets": [{
-      "data": [811, 942, 9],
-      "backgroundColor": ["#AC2B37", "#D64550", "#8E1E29"]
+      "data": [811, 942, 9, 50],
+      "backgroundColor": ["#AC2B37", "#D64550", "#8E1E29", "#E58E96"]
     }],
-    "total": 1762
+    "total": 1812
   },
   "grants": [
     {
@@ -17,6 +17,17 @@
       "amount": "$636K",
       "role": "Lead PI",
       "description": "NSF Faculty Early Career Development (CAREER) Award. Total award: $635,517.",
+      "leadPIs": null
+    },
+    {
+      "id": "bosch-research",
+      "title": "Bosch Research",
+      "icon": "fa-industry",
+      "type": "Industry",
+      "duration": "8 months (9/2026 - 4/2027)",
+      "amount": "$50K",
+      "role": "Lead PI",
+      "description": "Cross-Modal Alignment of Video and MQTT Streams for Detecting Physical-Digital Divergence in Reconfigurable Manufacturing Cells.",
       "leadPIs": null
     },
     {

@@ -428,16 +428,16 @@
 
                 // Calculate chart data from grants
                 const chartData = {
-                    labels: ['NSF', 'NIH', 'Gift'],
+                    labels: ['NSF', 'NIH', 'Gift', 'Industry'],
                     datasets: [{
-                        data: [0, 0, 0],
-                        backgroundColor: ['#AC2B37', '#D64550', '#8E1E29']
+                        data: [0, 0, 0, 0],
+                        backgroundColor: ['#AC2B37', '#D64550', '#8E1E29', '#E58E96']
                     }],
                     total: 0
                 };
 
                 // Group amounts by type
-                const typeIndex = { 'NSF': 0, 'NIH': 1, 'Gift': 2 };
+                const typeIndex = { 'NSF': 0, 'NIH': 1, 'Gift': 2, 'Industry': 3 };
                 grants.forEach(grant => {
                     const amount = parseAmount(grant.amount);
                     const index = typeIndex[grant.type];
