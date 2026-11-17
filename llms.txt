@@ -5,6 +5,8 @@
 Site: https://bashlab.github.io
 
 ## News
+- November 2026 — BASH Lab receives a Bosch Research grant: The lab received a research grant from Bosch Research, with Bashima Islam as Lead PI.
+- October 2026 — Nur joins the Digital Health Lab at Samsung Research America as Research Intern: 
 - September 2026 — StoMPP got accepted in NeurIPS 2026: StoMPP binarizes a network one layer at a time, input to output, so every layer being binarized keeps a gradient path to the loss. It trains deep binary networks without a straight-through estimator, and combined with STE it improves ResNet-50 on ImageNet by +17.7 points over vanilla STE, with gains growing with depth. (Led by Evan) (https://arxiv.org/abs/2606.27759)
 - September 2026 — Our PhysioNet Challenge 2026 entry got accepted in CinC 2026 as a paper and poster: Interpretable overnight polysomnography features, aligned to a hospital the model never trained on and scored without any labels from it, predict future diagnoses of cognitive impairment. Team bashlab ranked 29th of 514 on the hidden validation set, with an age-conditioned AUROC of 0.751. (Led by Shouborno) (https://github.com/shouborno/physionet-challenge-2026)
 - September 2026 — JOLT got accepted in ICTAI 2026: JOLT trains every branch of an early-exit network under a single objective and then routes on the confidence the network already computes, so a compute budget still holds when the input distribution drifts. Across seven datasets spanning sensor, image, audio and language tasks, it overspends its budget by at most 6.8%, where exit rules calibrated on clean data overspend by up to 62%. (Led by Shouborno) (https://github.com/BASHLab/jolt-early-exit)
@@ -99,8 +101,9 @@ More: https://bashima.notion.site/mind-meets-machine?pvs=4
 Collaborating institutions: Carnegie Mellon University, University of Illinois Urbana-Champaign, Georgia Tech, University of Trento, Meta Reality Lab, Arizona State University, University of Tennessee, Knoxville, Bosch Research America, Equa Health, Northwestern University, Delft University of Technology, University of California San Diego, UMass Chan Medical School, Columbia University
 
 ## Funding
-Total funding: $1762K
+Total funding: $1812K
 - NSF CAREER (NSF), $636K, role: Lead PI, 5 years (10/2026 - 9/2031)
+- Bosch Research (Industry), $50K, role: Lead PI, 8 months (9/2026 - 4/2027)
 - NIH NIMH SBIR (Phase2) (NIH), $170K (Total: $918K), role: Co-I, 2 year (9/2025 - 8/2027), Lead PIs: John David Creswell & Mathew Polowitz (CMU & Equa Health)
 - Wadsworth Acoustic Laboratory (Gift), $9K, role: Lead PI, 1 year (1/2024 - 12/2024)
 - NSF CSR CRII (NSF), $175K, role: Lead PI, 2 years (1/2024 - 12/2025)
